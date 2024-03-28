@@ -1,0 +1,23 @@
+GuestName	Contact	Nationality	NumberOfAdults	NumberOfChildren	NumberOfInfants	ArrivalDate	DepartureDate	NumberOfNights	BookedDate	ListingName	ChannelName
+Luna	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-01	2024-03-08	7	2024-03-19 10:58	Cozy Flat by the Lake	Direct booking
+Anna	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-15	2024-03-19	4	2024-03-19 10:59	Cozy Flat by the Lake	Direct booking
+Luna	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-21	2024-03-22	1	2024-03-21 15:39	Cozy Flat by the Lake	Direct booking
+Luna	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-21	2024-03-22	1	2024-03-21 15:21	Cozy Flat by the Lake	Direct booking
+Bler	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-26	2024-03-29	3	2024-03-19 11:00	Cozy Flat by the Lake	Direct booking
+anita	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-29	2024-04-02	4	2024-03-21 14:20	Cozy Flat by the Lake	Direct booking
+Anna	blerta.prendi@sparklab.al	NoData	0	0	0	2024-04-05	2024-04-10	5	2024-03-21 14:41	Cozy Flat by the Lake	Direct booking
+Uilliam	blerta.prendi@sparklab.al	NoData	0	0	0	2024-04-24	2024-04-27	3	2024-03-21 14:26	Cozy Flat by the Lake	Direct booking
+Lili	blerta.prendi@sparklab.al	NoData	0	0	0	2024-06-04	2024-06-06	2	2024-03-21 15:31	Cozy Flat by the Lake	Direct booking
+luara	blerta.prendi@sparklab.al	NoData	0	0	0	2024-06-19	2024-06-21	2	2024-03-21 14:54	Cozy Flat by the Lake	Direct booking
+lisa	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-22	2024-03-27	5	2024-03-21 14:15	Skanderbeg Superior	Direct booking
+green	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-29	2024-04-01	3	2024-03-21 14:58	Skanderbeg Superior	Direct booking
+Lili	blerta.prendi@sparklab.al	NoData	0	0	0	2024-04-06	2024-04-09	3	2024-03-21 15:18	Skanderbeg Superior	Direct booking
+Clara	blerta.prendi@sparklab.al	NoData	0	0	0	2024-04-10	2024-04-13	3	2024-03-21 14:23	Skanderbeg Superior	Direct booking
+Uilliam	blerta.prendi@sparklab.al	NoData	0	0	0	2024-04-30	2024-05-02	2	2024-03-21 15:02	Skanderbeg Superior	Direct booking
+lili	blerta.prendi@sparklab.al	NoData	0	0	0	2024-05-02	2024-05-07	5	2024-03-21 14:33	Skanderbeg Superior	Direct booking
+liam	blerta.prendi@sparklab.al	NoData	0	0	0	2024-05-17	2024-05-22	5	2024-03-21 14:50	Skanderbeg Superior	Direct booking
+fish	blerta.prendi@sparklab.al	NoData	0	0	0	2024-06-12	2024-06-16	4	2024-03-21 14:37	Skanderbeg Superior	Direct booking
+luisa	blerta.prendi@sparklab.al	NoData	0	0	0	2024-03-29	2024-04-01	3	2024-03-21 15:13	Deluxe Room x3 @SunsetTerrace B&B	Direct booking
+Uilliam	blerta.prendi@sparklab.al	NoData	0	0	0	2024-04-22	2024-04-25	3	2024-03-21 15:14	Deluxe Room x3 @SunsetTerrace B&B	Direct booking
+Uilliam	blerta.prendi@sparklab.al	NoData	0	0	0	2024-05-28	2024-05-30	2	2024-03-21 15:25	Deluxe Room x3 @SunsetTerrace B&B	Direct booking
+lia	blerta.prendi@sparklab.al	NoData	0	0	0	2024-07-02	2024-07-04	2	2024-03-21 15:09	Deluxe Room x3 @SunsetTerrace B&B	Direct booking
