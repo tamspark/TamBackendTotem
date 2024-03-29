@@ -134,7 +134,7 @@ public class ReservationFileService {
 
 
 
-        String apiURL = "http://localhost:8080/TAM/"+userID+"/reservations/calendar?fromDate=" + fromDate + "&toDate=" + toDate;
+        String apiURL = "https://tambackendtotem.onrender.com/TAM/"+2+"/reservations/calendar?fromDate=" + fromDate + "&toDate=" + toDate;
 
         List<ApartmentCalendarDTO> response = apiCallService.getApartmentsCallParam(apiURL);
 
