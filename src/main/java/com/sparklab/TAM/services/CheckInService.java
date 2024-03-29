@@ -195,7 +195,9 @@ public class CheckInService {
         totemCheckIn.setSurname(totemCheckInDTO.getSurname());
         TotemCheckIn saved=totemCheckInRepository.save(totemCheckIn);
         //TODO keep it here or not
-        uploadDocumentsBeforeCheckIn(new CheckInDocumentsDTO(totemCheckInDTO.getDocuments(),saved));
+        if(totemCheckInDTO.getDocuments()!=null){
+            uploadDocumentsBeforeCheckIn(new CheckInDocumentsDTO(totemCheckInDTO.getDocuments(),saved));
+        }
         return saved.getId();
     }
 }
